@@ -1,5 +1,5 @@
 ### Index
-1 - Language Models, the Chat Format and Tokens
+1 - Language Models, the Chat Format and Tokens \n
 2 - Evaluate Inputs: Classification
 3 - Evaluate Inputs: Moderation
 4 - Process Inputs: Chain of Thought Reasoning
